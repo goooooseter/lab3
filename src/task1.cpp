@@ -1,5 +1,4 @@
 #include <iostream>
-#include <thread>
 
 void createMemoryLeak() {
     while (true) {
